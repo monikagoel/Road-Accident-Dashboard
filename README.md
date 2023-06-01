@@ -10,14 +10,14 @@ Data Cleaning - Removed unwanted columns which were empty, making first row as h
 Data Processing: use DAX expressions to create new columns, new table for date
 
 Analysis:
-•	Total number of accident and casualties is decreasing in compared to previous year.
-•	Good news is fatal casualties is decreased by 33.3 percentage from previous year.
-•	On Analysis, on types of vehicles, casualties by Car is much higher as compared to bikes and bus and agricultural vehicles
-•	Casualties in urban areas are more as compared to rural.
-•	Casualties in day times is almost triple times as compared to night times
-•	Single carriage way road is more prone to accidents 
-•	Casualties’ monthly trends shows average casualties’ rate is higher in month of May, June and July. 
-•	Maximum number of accidents and casualties happen during raining.
+1	Total number of accident and casualties is decreasing in compared to previous year.
+2	Good news is fatal casualties is decreased by 33.3 percentage from previous year.
+3	On Analysis, on types of vehicles, casualties by Car is much higher as compared to bikes and bus and agricultural vehicles
+4	Casualties in urban areas are more as compared to rural.
+5	Casualties in day times is almost triple times as compared to night times
+6	Single carriage way road is more prone to accidents 
+7	Casualties’ monthly trends shows average casualties’ rate is higher in month of May, June and July. 
+8 Maximum number of accidents and casualties happen during raining.
 
 
 Key recommendation:
